@@ -5,7 +5,7 @@ Contributing to Flutter
 
 _tl;dr: join [Discord](https://github.com/flutter/flutter/wiki/Chat), be [courteous](CODE_OF_CONDUCT.md), follow the steps below to set up a development environment; if you stick around and contribute, you can [join the team](https://github.com/flutter/flutter/wiki/Contributor-access) and get commit access._
 
-Welcome
+Welcome **flutter**
 -------
 
 We invite you to join the Flutter team, which is made up of volunteers and sponsored folk alike!
@@ -30,9 +30,9 @@ Before you get started, we encourage you to read these documents which describe 
    to ask questions.
 
 2. [Values](https://github.com/flutter/flutter/wiki/Values),
-   which talks about what we care most about.
+   which talks about what we care most about. flutter
 
-Helping out in the issue database
+Helping out in the issue database 
 ---------------------------------
 
 Triage is the process of going through bug reports and determining if they are valid, finding out
